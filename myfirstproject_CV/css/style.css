@@ -323,10 +323,11 @@ button:hover {
 }
 
 .close {
-    color: #aaa;
+    color: #f59e13;
     float: right;
-    font-size: 28px;
+    font-size: 35px;
     font-weight: bold;
+    margin-top: -35px;
 }
 
 .close:hover,
